@@ -44,3 +44,13 @@ See [awesome-selfhosted#social-networks-and-forums](https://github.com/Kickball/
 
 [diaspora]: https://diasporafoundation.org/
 [NodeBB]: https://nodebb.org/
+
+## Payed Software
+
+
+| Software                 | Summary                              | Comments                              |
+|:-------------------------|:-------------------------------------|:--------------------------------------|
+| [Socialcast][Socialcast] | idk                                  | figure out what it does               |
+
+
+[Socialcast]: http://www.socialcast.com/pricing#pricing
