@@ -32,8 +32,15 @@ See [awesome-selfhosted#social-networks-and-forums](https://github.com/Kickball/
 
 ## Potential Softwares to Use/Combine
 
-| Software | Summary | Comments |
-|:---------|:--------|:---------|
+<!-- confused how to write a markdown table? -->
+<!-- see: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables -->
+<!-- each row must be on one line. best editing environment will be a text editor with soft-wrap on -->
+<!-- plus use link names like here to keep it cleaner -->
+
+| Software             | Summary                              | Comments                              |
+|:---------------------|:-------------------------------------|:--------------------------------------|
 | [diaspora][diaspora] | distributed social networking server | total control over all data, may be like a poorer version of facebook |
+| [NodeBB][NodeBB]     | Nodejs based forum                   | Modern forum (not PHP)                |
 
 [diaspora]: https://diasporafoundation.org/
+[NodeBB]: https://nodebb.org/
