@@ -45,6 +45,14 @@ See [awesome-selfhosted#social-networks-and-forums](https://github.com/Kickball/
 [diaspora]: https://diasporafoundation.org/
 [NodeBB]: https://nodebb.org/
 
+## Potential Services
+
+| Service          | Summary    | Comments    |
+|:-----------------|:-----------|:------------|
+| [spaces][spaces] | looks cool | not out yet |
+
+[spaces]: https://get.google.com/spaces/
+
 ## Payed Software
 
 
